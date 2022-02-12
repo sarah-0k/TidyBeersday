@@ -1,2 +1,2 @@
 # TidyBeersday
-Tidy Tuesday 
+Tidy Tuesday datasets and mucking about
